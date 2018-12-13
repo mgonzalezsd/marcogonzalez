@@ -1,2 +1,3 @@
 # marcogonzalez
-Another GitHub Repository
+Welcome to my repository
+View sample of webdesigns for dot.orgs
